@@ -1,0 +1,73 @@
+{
+  "HEAVY_DEEP": [
+    "suicide",
+    "kill myself",
+    "end it",
+    "no reason",
+    "hopeless",
+    "worthless",
+    "don't want to live",
+    "better off dead"
+  ],
+  "SAD_LOW": [
+    "sad",
+    "down",
+    "depressed",
+    "lonely",
+    "cry",
+    "empty",
+    "miserable",
+    "terrible",
+    "awful",
+    "broken"
+  ],
+  "ANXIOUS_STRESSED": [
+    "anxious",
+    "panic",
+    "worried",
+    "stress",
+    "stressed",
+    "overwhelmed",
+    "nervous",
+    "scared",
+    "afraid",
+    "nervous"
+  ],
+  "ANGRY_FRUSTRATED": [
+    "angry",
+    "mad",
+    "furious",
+    "annoyed",
+    "irritated",
+    "frustrated",
+    "rage",
+    "upset",
+    "pissed"
+  ],
+  "NEUTRAL_TIRED": [
+    "tired",
+    "exhausted",
+    "sleepy",
+    "burned out",
+    "meh",
+    "flat",
+    "blah",
+    "okay",
+    "fine",
+    "alright"
+  ],
+  "POSITIVE": [
+    "happy",
+    "great",
+    "good",
+    "excited",
+    "motivated",
+    "grateful",
+    "wonderful",
+    "amazing",
+    "brilliant",
+    "awesome",
+    "love",
+    "blessed"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "POSITIVE": {
+    "texts": [
+      "Love this energy. Keep it simple: one small win today.",
+      "Nice. Protect that mood—don't waste it scrolling.",
+      "You're crushing it! Keep this energy close.",
+      "That's the spirit. Let's make today count.",
+      "Awesome! Keep riding this wave.",
+      "This is your superpower. Own it."
+    ],
+    "memes": [
+      "meme_happy_001.jpg",
+      "meme_happy_002.jpg",
+      "meme_happy_003.jpg"
+    ]
+  },
+  "NEUTRAL_TIRED": {
+    "texts": [
+      "It's okay to feel neutral right now. Rest when you need it.",
+      "That's normal. Give yourself permission to recharge.",
+      "Not every day is high-energy, and that's fine.",
+      "Steady pace is still progress. Be gentle with yourself.",
+      "Even low-key days matter. You're doing okay."
+    ],
+    "memes": [
+      "meme_calm_001.jpg",
+      "meme_calm_002.jpg"
+    ]
+  },
+  "SAD_LOW": {
+    "texts": [
+      "It's okay to feel low. You're not broken. One small step is enough today.",
+      "This feeling is temporary, even if it doesn't feel that way.",
+      "You've felt better before, and you will again. Be patient with yourself.",
+      "Sadness is human. You're allowed to grieve and rest.",
+      "Reach out to someone you trust. You don't have to carry this alone."
+    ],
+    "videos": [
+      "https://youtu.be/ZXsQAXx_ao0",
+      "https://youtu.be/WUhOnL1XL14"
+    ]
+  },
+  "ANGRY_FRUSTRATED": {
+    "texts": [
+      "Your anger is valid. Take some space if you need it.",
+      "Breathe. Let yourself feel it, then let it pass.",
+      "Anger tells you something matters. Channel it wisely.",
+      "Step away for a bit. You'll see things differently soon.",
+      "It's okay to be frustrated. Give yourself permission to feel it."
+    ]
+  },
+  "ANXIOUS_STRESSED": {
+    "texts": [
+      "You're safe right now. Try box breathing: 4 in, hold 4, out 4, hold 4.",
+      "Anxiety lies. Notice 5 things you see, 4 you hear, 3 you feel, 2 you smell, 1 you taste.",
+      "One moment at a time. You don't have to solve everything today.",
+      "Your stress shows you care. But you can't control everything.",
+      "Breathe. This feeling will pass. You've survived every anxiety before."
+    ],
+    "videos": [
+      "https://youtu.be/tYzMGcUty6s",
+      "https://youtu.be/MByVQOYmWFw"
+    ]
+  },
+  "HEAVY_DEEP": {
+    "texts": [
+      "I'm glad you're here. Please reach out to someone you trust. Your life matters.",
+      "What you're feeling is real, and you deserve support. Talk to someone today.",
+      "You might not see it now, but this will pass. Please reach out for help.",
+      "Your pain is valid, but you don't have to face it alone. Call someone who cares.",
+      "This is hard, and I see you. Please talk to someone. You matter."
+    ]
+  }
+}
