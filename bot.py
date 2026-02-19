@@ -76,25 +76,6 @@ async def checkin_start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> i
     """Handle /checkin command or 'Check in now' button"""
     user_id = update.effective_user.id
 
-    # Check rate limit
-    can_checkin, time_remaining = db.can_checkin(user_id, CHECKIN_COOLDOWN_SECONDS)
-
-    if not can_checkin:
-        hours = time_remaining.total_seconds() / 3600
-        days = int(hours // 24)
-        hours = int(hours % 24)
-
-        if days > 0:
-            message = f"⏰ You already did your weekly check-in.\n\nNext check-in available in: {days}d {hours}h"
-        else:
-            message = f"⏰ You already did your weekly check-in.\n\nNext check-in available in: {int(hours)}h"
-
-        if update.message:
-            await update.message.reply_text(message)
-        else:
-            await update.callback_query.edit_message_text(message)
-        return ConversationHandler.END
-
     # Show mood buttons
     prompt_text = "**How are you feeling right now?**"
 
