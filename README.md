@@ -1,4 +1,4 @@
-# Telegram Mood Check-In Bot
+# Telegram Mood Assist bot
 
 A weekly emotional wellness bot that checks in with users, classifies their mood, and provides personalized support.
 
